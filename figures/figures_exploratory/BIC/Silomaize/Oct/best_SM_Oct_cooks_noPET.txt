@@ -1,0 +1,229 @@
+[1] 276
+
+1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 
+   4    2    2    6   31    5    1   31   20    5    4   19   15   13   71   24   23 
+
+                        Aichach-Friedberg, Landkreis                                      Alb-Donau-Kreis                              Altenburger Land, Kreis 
+                                                   0                                                    0                                                    0 
+                Altenkirchen (Westerwald), Landkreis                              Alt\xf6tting, Landkreis                                              Ansbach 
+                                                   0                                                    0                                                    0 
+                                  Ansbach, Landkreis                                        Aschaffenburg                             Aschaffenburg, Landkreis 
+                                                   0                                                    0                                                    0 
+                                            Augsburg                                  Augsburg, Landkreis                                    Aurich, Landkreis 
+                                                   0                                                    0                                                    0 
+                                             Bamberg                                   Bamberg, Landkreis                              B\xf6blingen, Landkreis 
+                                                   0                                                    0                                                    0 
+                     Berchtesgadener Land, Landkreis                             Bergstra\xdfe, Landkreis                                  Biberach, Landkreis 
+                                                   0                                                    0                                                    0 
+                                       Bodenseekreis                                        Borken, Kreis                  Breisgau-Hochschwarzwald, Landkreis 
+                                                   0                                                    0                                                    0 
+                                     Calw, Landkreis                                     Celle, Landkreis                               Cloppenburg, Landkreis 
+                                                   0                                                    0                                                    0 
+                                     Coesfeld, Kreis                                  Cuxhaven, Landkreis                                    Dachau, Landkreis 
+                                                   0                                                    0                                                    0 
+                        Darmstadt-Dieburg, Landkreis                          Darmstadt, Kreisfreie Stadt                                  Diepholz, Landkreis 
+                                                   0                                                    0                                                    0 
+                      Dillingen a.d.Donau, Landkreis                              Dithmarschen, Landkreis                                Donau-Ries, Landkreis 
+                                                   0                                                    0                                                    0 
+                                Ebersberg, Landkreis                                     Eichsfeld, Kreis                           Eifelkreis Bitburg-Pr\xfcm 
+                                                   0                                                    0                                                    0 
+                              Eisenach, krsfr. Stadt                                   Emsland, Landkreis                                    Ennepe-Ruhr-Kreis 
+                                                   0                                                    0                                                    0 
+                                            Enzkreis                                    Erding, Landkreis                                             Erlangen 
+                                                   0                                                    0                                                    0 
+                    Erlangen-H\xf6chstadt, Landkreis                                 Esslingen, Landkreis                                    Euskirchen, Kreis 
+                                                   0                                                    0                                                    0 
+                         Flensburg, Kreisfreie Stadt                                 Forchheim, Landkreis                                  Freising, Landkreis 
+                                                   0                                                    0                                                    0 
+                         Freyung-Grafenau, Landkreis                                 Friesland, Landkreis                       F\xfcrstenfeldbruck, Landkreis 
+                                                   0                                                    0                                                    0 
+                                Gie\xdfen, Landkreis                                   Gifhorn, Landkreis                                    Goslar, Landkreis 
+                                                   0                                                    0                                                    0 
+                             G\xf6ppingen, Landkreis                       Grafschaft Bentheim, Landkreis                             Gro\xdf-Gerau, Landkreis 
+                                                   0                                                    0                                                    0 
+                                 G\xfctersloh, Kreis                              G\xf6ttingen, Landkreis                            Hameln-Pyrmont, Landkreis 
+                                                   0                                                    0                                                    0 
+                              Hamm, Kreisfreie Stadt                                Heidenheim, Landkreis                                 Heilbronn, Landkreis 
+                                                   0                                                    0                                                    0 
+                                    Heinsberg, Kreis                                 Helmstedt, Landkreis                        Hersfeld-Rotenburg, Landkreis 
+                                                   0                                                    0                                                    0 
+                      Herzogtum Lauenburg, Landkreis                                Hildesheim, Landkreis                                      Hochtaunuskreis 
+                                                   0                                                    0                                                    0 
+                                      Hohenlohekreis                                     H\xf6xter, Kreis                                           Ingolstadt 
+                                                   0                                                    0                                                    0 
+                            Kassel, Kreisfreie Stadt                                    Kassel, Landkreis                                   Kelheim, Landkreis 
+                                                   0                                                    0                                                    0 
+                                        Kleve, Kreis                                  Konstanz, Landkreis                                   Kyffh\xe4userkreis 
+                                                   0                                                    0                                                    0 
+                               Landkreis Bad Doberan                                 Landkreis G\xfcstrow                             Landkreis Nordvorpommern 
+                                                   0                                                    0                                                    0 
+                       Landkreis Nordwestmecklenburg                              Landkreis Uecker-Randow                      L\xfcchow-Dannenberg, Landkreis 
+                                                   0                                                    0                                                    0 
+                                     Leer, Landkreis                          Limburg-Weilburg, Landkreis                                         Lippe, Kreis 
+                                                   0                                                    0                                                    0 
+                              L\xfcneburg, Landkreis                                L\xf6rrach, Landkreis                               Ludwigsburg, Landkreis 
+                                                   0                                                    0                                                    0 
+                                   Main-Taunus-Kreis                        Marburg-Biedenkopf, Landkreis                             Mayen-Koblenz, Landkreis 
+                                                   0                                                    0                                                    0 
+                            Merzig-Wadern, Landkreis                                  Miesbach, Landkreis                                Miltenberg, Landkreis 
+                                                   0                                                    0                                                    0 
+                        M\xfcnchen, Landeshauptstadt                                Neckar-Odenwald-Kreis                               Neunkirchen, Landkreis 
+                                                   0                                                    0                                                    0 
+                                  Neuwied, Landkreis                          Nienburg (Weser), Landkreis                             Nordfriesland, Landkreis 
+                                                   0                                                    0                                                    0 
+                                   Nordhausen, Kreis                                  Northeim, Landkreis                         Oberhausen, Kreisfreie Stadt 
+                                                   0                                                    0                                                    0 
+                 Offenbach am Main, Kreisfreie Stadt                                 Offenbach, Landkreis                                 Oldenburg, Landkreis 
+                                                   0                                                    0                                                    0 
+                      Osnabr\xfcck, Kreisfreie Stadt                              Osnabr\xfcck, Landkreis                                          Ostalbkreis 
+                                                   0                                                    0                                                    0 
+                                Osterholz, Landkreis                          Osterode am Harz, Landkreis                               Ostholstein, Landkreis 
+                                                   0                                                    0                                                    0 
+                       Ostprignitz-Ruppin, Landkreis                                     Paderborn, Kreis                                               Passau 
+                                                   0                                                    0                                                    0 
+                                   Passau, Landkreis                                     Peine, Landkreis                                   Rastatt, Landkreis 
+                                                   0                                                    0                                                    0 
+                               Recklinghausen, Kreis                                           Regensburg                           Region Hannover, Landkreis 
+                                                   0                                                    0                                                    0 
+                                     Rems-Murr-Kreis                  Rendsburg-Eckernf\xf6rde, Landkreis                                Rheingau-Taunus-Kreis 
+                                                   0                                                    0                                                    0 
+                             Rhein-Hunsr\xfcck-Kreis                                     Rhein-Lahn-Kreis                                   Rhein-Neckar-Kreis 
+                                                   0                                                    0                                                    0 
+                                    Rhein-Sieg-Kreis                                            Rosenheim                                 Rosenheim, Landkreis 
+                                                   0                                                    0                                                    0 
+                               Rottal-Inn, Landkreis                                 Saarlouis, Landkreis                                Schaumburg, Landkreis 
+                                                   0                                                    0                                                    0 
+                      Schleswig-Flensburg, Landkreis                                            Schwabach                                   Schwalm-Eder-Kreis 
+                                                   0                                                    0                                                    0 
+                       Schw\xe4bisch Hall, Landkreis                                         Soest, Kreis                                     Stade, Landkreis 
+                                                   0                                                    0                                                    0 
+                                Steinburg, Landkreis                                     Steinfurt, Kreis                               T\xfcbingen, Landkreis 
+                                                   0                                                    0                                                    0 
+                               Traunstein, Landkreis                            Trier-Saarburg, Landkreis                                Tuttlingen, Landkreis 
+                                                   0                                                    0                                                    0 
+                                   Uelzen, Landkreis                            Unterallg\xe4u, Landkreis                                    Vechta, Landkreis 
+                                                   0                                                    0                                                    0 
+                                   Verden, Landkreis                                       Viersen, Kreis                       Waldeck-Frankenberg, Landkreis 
+                                                   0                                                    0                                                    0 
+                                 Waldshut, Landkreis                                     Warendorf, Kreis                                        Wartburgkreis 
+                                                   0                                                    0                                                    0 
+                        Weilheim-Schongau, Landkreis                                      Westerwaldkreis                                        Wetteraukreis 
+                                                   0                                                    0                                                    0 
+       Wiesbaden, Landeshauptstadt, Kreisfreie Stadt                                  Wittmund, Landkreis                           Wolfenb\xfcttel, Landkreis 
+                                                   0                                                    0                                                    0 
+                                     Zollernalbkreis                                               Amberg                           Amberg-Sulzbach, Landkreis 
+                                                   0                                                    1                                                    1 
+                                Ammerland, Landkreis                             Bad Kissingen, Landkreis                Bad T\xf6lz-Wolfratshausen, Landkreis 
+                                                   1                                                    1                                                    1 
+                                  Bautzen, Landkreis                                             Bayreuth                                  Bayreuth, Landkreis 
+                                                   1                                                    1                                                    1 
+                      Bernkastel-Wittlich, Landkreis                                Birkenfeld, Landkreis                                  B\xf6rde, Landkreis 
+                                                   1                                                    1                                                    1 
+                                     Cham, Landkreis                                               Coburg                                    Coburg, Landkreis 
+                                                   1                                                    1                                                    1 
+                               Deggendorf, Landkreis                         Dingolfing-Landau, Landkreis                                     Donnersbergkreis 
+                                                   1                                                    1                                                    1 
+                                     D\xfcren, Kreis                              Eichst\xe4tt, Landkreis                               Emmendingen, Landkreis 
+                                                   1                                                    1                                                    1 
+                 Frankfurt am Main, Kreisfreie Stadt                              Freudenstadt, Landkreis                                     Fulda, Landkreis 
+                                                   1                                                    1                                                    1 
+                              G\xfcnzburg, Landkreis                                         Gotha, Kreis                                         Greiz, Kreis 
+                                                   1                                                    1                                                    1 
+                              Ha\xdfberge, Landkreis                                   Harburg, Landkreis                                 Havelland, Landkreis 
+                                                   1                                                    1                                                    1 
+                               Heidekreis, Landkreis                                       Herford, Kreis                                   Hochsauerlandkreis 
+                                                   1                                                    1                                                    1 
+                                      Hof, Landkreis                                Holzminden, Landkreis                                 Karlsruhe, Landkreis 
+                                                   1                                                    1                                                    1 
+                                          Kaufbeuren                                 Kitzingen, Landkreis                                   Kronach, Landkreis 
+                                                   1                                                    1                                                    1 
+                                 Kulmbach, Landkreis                                      Lahn-Dill-Kreis                                     Landkreis Demmin 
+                                                   1                                                    1                                                    1 
+                      Landkreis Mecklenburg-Strelitz                                  Landkreis M\xfcritz                              Landkreis Ostvorpommern 
+                                                   1                                                    1                                                    1 
+                                   Landkreis Parchim                                   Landkreis R\xfcgen                         Landsberg am Lech, Landkreis 
+                                                   1                                                    1                                                    1 
+                                            Landshut                                  Landshut, Landkreis              L\xfcbeck, Hansestadt, Kreisfreie Stadt 
+                                                   1                                                    1                                                    1 
+                                  Leipzig, Landkreis                                       Leipzig, Stadt                               Lichtenfels, Landkreis 
+                                                   1                                                    1                                                    1 
+                            Main-Spessart, Landkreis                                    Main-Tauber-Kreis                                 Mei\xdfen, Landkreis 
+                                                   1                                                    1                                                    1 
+                                           Memmingen                         M\xfchldorf a.Inn, Landkreis                            Minden-L\xfcbbecke, Kreis 
+                                                   1                                                    1                                                    1 
+                            Mittelsachsen, Landkreis                                M\xfcnchen, Landkreis                         M\xfcnster, Kreisfreie Stadt 
+                                                   1                                                    1                                                    1 
+                     M\xe4rkisch-Oderland, Landkreis                    Neuburg-Schrobenhausen, Landkreis                         Neumarkt i.d.OPf., Landkreis 
+                                                   1                                                    1                                                    1 
+         Neustadt a.d.Aisch-Bad Windsheim, Landkreis                     Neustadt a.d.Waldnaab, Landkreis                                   Neu-Ulm, Landkreis 
+                                                   1                                                    1                                                    1 
+                              Nordsachsen, Landkreis                                          N\xfcrnberg                        N\xfcrnberger Land, Landkreis 
+                                                   1                                                    1                                                    1 
+                                        Ortenaukreis                              Ostallg\xe4u, Landkreis                      Pfaffenhofen a.d.Ilm, Landkreis 
+                                                   1                                                    1                                                    1 
+                                Pinneberg, Landkreis                                   Pl\xf6n, Landkreis                                  Prignitz, Landkreis 
+                                                   1                                                    1                                                    1 
+                               Ravensburg, Landkreis                                     Regen, Landkreis                                Regensburg, Landkreis 
+                                                   1                                                    1                                                    1 
+                               Reutlingen, Landkreis                      Rotenburg (W\xfcmme), Landkreis                                      Roth, Landkreis 
+                                                   1                                                    1                                                    1 
+                                 Rottweil, Landkreis                                 Saale-Holzland-Kreis                           Saalfeld-Rudolstadt, Kreis 
+                                                   1                                                    1                                                    1 
+                     Saarbr\xfccken, Regionalverband                                      Saarpfalz-Kreis                                        Salzlandkreis 
+                                                   1                                                    1                                                    1 
+      S\xe4chsische Schweiz-Osterzgebirge, Landkreis                                Schwandorf, Landkreis                               Schwarzwald-Baar-Kreis 
+                                                   1                                                    1                                                    1 
+                                         Schweinfurt                               Schweinfurt, Landkreis                           S\xfcdwestpfalz, Landkreis 
+                                                   1                                                    1                                                    1 
+                                 Segeberg, Landkreis                               Sigmaringen, Landkreis                                  Stormarn, Landkreis 
+                                                   1                                                    1                                                    1 
+                                           Straubing                           Straubing-Bogen, Landkreis                                St. Wendel, Landkreis 
+                                                   1                                                    1                                                    1 
+                            Tirschenreuth, Landkreis                                 Uckermark, Landkreis                                          Unna, Kreis 
+                                                   1                                                    1                                                    1 
+                               Unstrut-Hainich-Kreis                                      Vogelsbergkreis                                        Vogtlandkreis 
+                                                   1                                                    1                                                    1 
+                                     Weiden i.d.OPf.                                 Weimarer Land, Kreis                               Werra-Mei\xdfner-Kreis 
+                                                   1                                                    1                                                    1 
+                                        Wesel, Kreis                               Wesermarsch, Landkreis                          Wolfsburg, Kreisfreie Stadt 
+                                                   1                                                    1                                                    1 
+                                         W\xfcrzburg                               W\xfcrzburg, Landkreis                Wunsiedel i.Fichtelgebirge, Landkreis 
+                                                   1                                                    1                                                    1 
+                                  Zwickau, Landkreis                                      Chemnitz, Stadt                           Dahme-Spreewald, Landkreis 
+                                                   1                                                    2                                                    2 
+                          Dortmund, Kreisfreie Stadt                                      Erzgebirgskreis                                             F\xfcrth 
+                                                   2                                                    2                                                    2 
+                               G\xf6rlitz, Landkreis                                      Harz, Landkreis                                Hildburghausen, Kreis 
+                                                   2                                                    2                                                    2 
+                                                 Hof                                     Kusel, Landkreis                         Leverkusen, Kreisfreie Stadt 
+                                                   2                                                    2                                                    2 
+                                   Main-Kinzig-Kreis                                      Mettmann, Kreis                                  M\xe4rkischer Kreis 
+                                                   2                                                    2                                                    2 
+                     Neum\xfcnster, Kreisfreie Stadt                                 Oberhavel, Landkreis                     Oberspreewald-Lausitz, Landkreis 
+                                                   2                                                    2                                                    2 
+                               Oder-Spree, Landkreis                        Potsdam-Mittelmark, Landkreis                                     Rhein-Erft-Kreis 
+                                                   2                                                    2                                                    2 
+                                   Rhein-Kreis Neuss                          Rh\xf6n-Grabfeld, Landkreis                                           Saalekreis 
+                                                   2                                                    2                                                    2 
+                                    Saale-Orla-Kreis                                     Sonneberg, Kreis                            Spree-Nei\xdfe, Landkreis 
+                                                   2                                                    2                                                    2 
+                                Starnberg, Landkreis                Wei\xdfenburg-Gunzenhausen, Landkreis                         Anhalt-Bitterfeld, Landkreis 
+                                                   2                                                    2                                                    3 
+                         Bielefeld, Kreisfreie Stadt                                      Burgenlandkreis             Kiel, Landeshauptstadt, Kreisfreie Stadt 
+                                                   3                                                    3                                                    3 
+                               Landkreis Ludwigslust                       Mansfeld-S\xfcdharz, Landkreis                 M\xf6nchengladbach, Kreisfreie Stadt 
+                                                   3                                                    3                                                    3 
+                                Oberbergischer Kreis                        Schmalkalden-Meiningen, Kreis                                   S\xf6mmerda, Kreis 
+                                                   3                                                    3                                                    3 
+                               Wittenberg, Landkreis                               Altmarkkreis Salzwedel                               Elbe-Elster, Landkreis 
+                                                   3                                                    4                                                    4 
+                                 F\xfcrth, Landkreis                                            Ilm-Kreis                           Jerichower Land, Landkreis 
+                                                   4                                                    4                                                    4 
+                                       Odenwaldkreis                                   Stendal, Landkreis                         Teltow-Fl\xe4ming, Landkreis 
+                                                   4                                                    4                                                    4 
+                                   Barnim, Landkreis                   Dessau-Ro\xdflau, Kreisfreie Stadt                                 Erfurt, krsfr. Stadt 
+                                                   5                                                    5                                                    5 
+                             Hagen, Kreisfreie Stadt                   Frankfurt (Oder), Kreisfreie Stadt                                          Olpe, Kreis 
+                                                   5                                                    6                                                    6 
+                          Siegen-Wittgenstein, Kreis 
+                                                   6 

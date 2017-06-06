@@ -1,0 +1,27 @@
+[1] "BEST MODELS"
+[1] "best_glm_AIC:" "-8189.861"    
+                    rsq      adjrsq 
+"best_plm:"    "0.1893"    "0.1771" 
+[1] "best_lm_r.squared:" "0.6206"            
+[1] "best_lm_adj.r.squared:" "0.5946"                
+[1] "BEST STANDARD MODELS"
+[1] "bestStandard_glm_AIC:" "-8116.8897"           
+                                    rsq              adjrsq 
+"bestStandard_plm:"            "0.1779"            "0.1665" 
+[1] "bestStandard_lm_r.squared:" "0.6153"                    
+[1] "bestStandard_lm_adj.r.squared:" "0.589"                         
+[1] "BEST SMI MODELS"
+[1] "bestSMI_glm_AIC:" "-8189.861"       
+                          rsq         adjrsq 
+"bestSMI_plm:"       "0.1893"       "0.1771" 
+[1] "bestSMI_lm_r.squared:" "0.6206"               
+[1] "bestSMI_lm_adj.r.squared:" "0.5946"                   
+[1] "BEST NO PET MODEL"
+[1] "best_noPET_glm_AIC:" "-8116.8897"         
+                                rsq            adjrsq 
+"best_noPET_plm:"          "0.1779"          "0.1665" 
+[1] "best_noPET_lm_r.squared:" "0.6153"                  
+[1] "best_noPET_lm_adj.r.squared:" "0.589"                       
+[1] "--------------------------"
+[1] "BestStdFull_lm_r.squared:" "0.6158"                   
+[1] "BestStdFull_lm_adj.r.squared:" "0.5895"                       

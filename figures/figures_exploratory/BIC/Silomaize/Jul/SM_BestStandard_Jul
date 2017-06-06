@@ -1,0 +1,47 @@
+
+% Table created by stargazer v.5.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
+% Date and time: Mo, Dez 12, 2016 - 14:57:18
+\begin{table}[!htbp] \centering 
+  \caption{Results of Jul} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{Dependent Variable: log(Silomaize)} \\ 
+\cline{2-2} 
+\\[-1.8ex] & siloMaize\_logtrend \\ 
+\hline \\[-1.8ex] 
+ Precipitation$^{1}$ & 0.039$^{***}$ \\ 
+  & (0.013) \\ 
+  Precipitation$^{2}$ & $-$0.023$^{***}$ \\ 
+  & (0.004) \\ 
+  Precipitation$^{3}$ & 0.005$^{***}$ \\ 
+  & (0.002) \\ 
+  AverageTemperature$^{1}$ & $-$0.036$^{*}$ \\ 
+  & (0.021) \\ 
+  AverageTemperature$^{2}$ & $-$0.007$^{***}$ \\ 
+  & (0.002) \\ 
+  AverageTemperature$^{3}$ & 0.004$^{*}$ \\ 
+  & (0.003) \\ 
+  SMI:severe drought & $-$0.044$^{**}$ \\ 
+  & (0.019) \\ 
+  SMI:moderate drought & $-$0.007 \\ 
+  & (0.011) \\ 
+  SMI:abnormal dry & $-$0.005 \\ 
+  & (0.007) \\ 
+  SMI:abnormal wet & $-$0.011 \\ 
+  & (0.007) \\ 
+  SMI:abundant wet & $-$0.004 \\ 
+  & (0.009) \\ 
+  SMI:severe wet & $-$0.041$^{***}$ \\ 
+  & (0.016) \\ 
+ \hline \\[-1.8ex] 
+Observations & 5,376 \\ 
+R$^{2}$ & 0.326 \\ 
+Adjusted R$^{2}$ & 0.305 \\ 
+F Statistic & 203.025$^{***}$ \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+\end{table} 

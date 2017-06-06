@@ -1,0 +1,41 @@
+hdf5/1.8.6_gcc44(3):ERROR:150: Module 'hdf5/1.8.6_gcc44' conflicts with the currently loaded module(s) 'hdf5/1.8.6_gcc41'
+hdf5/1.8.6_gcc44(3):ERROR:102: Tcl command execution failed: conflict	hdf5
+
+running
+  '/usr/local/R/3.0.1-1/lib64/R/bin/R --slave --no-restore --file=/home/peichl/projects/correlation/script/script_raw/Gsub_CLCraster.R'
+
+Loading required package: methods
+Loading required package: sp
+rgdal: version: 0.8-9, (SVN revision 470)
+Geospatial Data Abstraction Library extensions to R successfully loaded
+Loaded GDAL runtime: GDAL 1.8.0, released 2011/01/12
+Path to GDAL shared files: /usr/local/gdal/1.8.0_gcc44/share/gdal
+GDAL does not use iconv for recoding strings.
+Loaded PROJ.4 runtime: Rel. 4.7.1, 23 September 2009, [PJ_VERSION: 470]
+Path to PROJ.4 shared files: (autodetected)
+
+Attaching package: ‘raster’
+
+The following object is masked from ‘package:sp’:
+
+    disaggregate
+
+Loading required package: lattice
+Loading required package: latticeExtra
+Loading required package: RColorBrewer
+Loading required package: hexbin
+Loading required package: grid
+Loading required package: foreign
+Checking rgeos availability: FALSE
+ 	Note: when rgeos is not available, polygon geometry 	computations in maptools depend on gpclib,
+ 	which has a restricted licence. It is disabled by default;
+ 	to enable gpclib, type gpclibPermit()
+OGR data source with driver: ESRI Shapefile 
+Source: "./data/data_raw/4_michael/adminitrative_borders_Ger/", layer: "vg2500_krs"
+with 412 features and 5 fields
+Feature type: wkbPolygon with 2 dimensions
+[1] "+proj=tmerc +lat_0=0 +lon_0=12 +k=1 +x_0=4500000 +y_0=0 +datum=potsdam +units=m +no_defs +ellps=bessel +towgs84=606.0,23.0,413.0"
+
+real	103m41.704s
+user	101m34.434s
+sys	2m1.373s

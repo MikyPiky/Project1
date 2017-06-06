@@ -1,0 +1,553 @@
+[1] "Cutoff_small"         "0.000795386756810499"
+[1] "Cutoff_small_number" "278"                
+[1] "Cutoff_large" "1"           
+[1] "Cutoff_large_number" "0"                  
+   year Freq
+1  1999    5
+2  2000    4
+3  2001    8
+4  2002    8
+5  2003   67
+6  2004    2
+7  2005    3
+8  2006   43
+9  2007    8
+10 2008    4
+11 2009    5
+12 2010   11
+13 2011   15
+14 2012    7
+15 2013   30
+16 2014   16
+17 2015   42
+    comId Freq
+1    1001    0
+2    1002    4
+3    1003    1
+4    1004    1
+5    1051    0
+6    1053    0
+7    1054    0
+8    1055    0
+9    1056    2
+10   1057    1
+11   1058    0
+12   1059    0
+13   1060    1
+14   1061    0
+15   1062    0
+16   3103    0
+17   3151    0
+18   3152    0
+19   3153    0
+20   3154    0
+21   3155    0
+22   3156    0
+23   3157    0
+24   3158    1
+25   3241    0
+26   3251    0
+27   3252    0
+28   3254    0
+29   3255    0
+30   3256    0
+31   3257    0
+32   3351    0
+33   3352    0
+34   3353    0
+35   3354    0
+36   3355    1
+37   3356    0
+38   3357    0
+39   3358    0
+40   3359    0
+41   3360    0
+42   3361    0
+43   3404    0
+44   3451    0
+45   3452    0
+46   3453    0
+47   3454    0
+48   3455    0
+49   3456    1
+50   3457    0
+51   3458    0
+52   3459    0
+53   3460    0
+54   3461    0
+55   3462    0
+56   5116    3
+57   5119    0
+58   5154    0
+59   5158    2
+60   5162    1
+61   5166    0
+62   5170    2
+63   5316    2
+64   5358    1
+65   5362    0
+66   5366    0
+67   5370    0
+68   5374    3
+69   5382    0
+70   5515    1
+71   5554    0
+72   5558    0
+73   5562    0
+74   5566    1
+75   5570    0
+76   5711    3
+77   5754    0
+78   5758    2
+79   5762    0
+80   5766    0
+81   5770    1
+82   5774    1
+83   5913    3
+84   5914    4
+85   5915    0
+86   5954    0
+87   5958    1
+88   5962    0
+89   5966    7
+90   5970    8
+91   5974    0
+92   5978    1
+93   6411    1
+94   6412    1
+95   6413    0
+96   6414    0
+97   6431    0
+98   6432    0
+99   6433    0
+100  6434    0
+101  6435    1
+102  6436    0
+103  6437    1
+104  6438    0
+105  6439    0
+106  6440    0
+107  6531    0
+108  6532    0
+109  6533    0
+110  6534    0
+111  6535    0
+112  6611    1
+113  6631    0
+114  6632    0
+115  6633    0
+116  6634    1
+117  6635    0
+118  6636    1
+119  7132    0
+120  7134    2
+121  7137    1
+122  7138    0
+123  7140    1
+124  7141    0
+125  7143    0
+126  7231    0
+127  7232    0
+128  7235    0
+129  7333    1
+130  7336    2
+131  7340    0
+132  8115    0
+133  8116    0
+134  8117    0
+135  8118    0
+136  8119    1
+137  8125    1
+138  8126    1
+139  8127    1
+140  8128    2
+141  8135    0
+142  8136    0
+143  8215    1
+144  8216    0
+145  8225    0
+146  8226    0
+147  8235    1
+148  8236    0
+149  8237    2
+150  8315    1
+151  8316    1
+152  8317    3
+153  8325    0
+154  8326    0
+155  8327    1
+156  8335    1
+157  8336    0
+158  8337    0
+159  8415    3
+160  8416    0
+161  8417    1
+162  8425    0
+163  8426    0
+164  8435    0
+165  8436    0
+166  8437    0
+167  9161    0
+168  9162    0
+169  9163    0
+170  9171    0
+171  9172    0
+172  9173    0
+173  9174    1
+174  9175    0
+175  9176    1
+176  9177    0
+177  9178    0
+178  9179    0
+179  9181    0
+180  9182    0
+181  9183    0
+182  9184    1
+183  9185    1
+184  9186    0
+185  9187    0
+186  9188    1
+187  9189    0
+188  9190    0
+189  9261    1
+190  9262    0
+191  9263    0
+192  9271    0
+193  9272    0
+194  9273    0
+195  9274    1
+196  9275    0
+197  9276    0
+198  9277    0
+199  9278    1
+200  9279    0
+201  9361    2
+202  9362    0
+203  9363    0
+204  9371    0
+205  9372    1
+206  9373    1
+207  9374    0
+208  9375    1
+209  9376    2
+210  9377    1
+211  9461    2
+212  9462    1
+213  9463    0
+214  9464    1
+215  9471    1
+216  9472    0
+217  9473    0
+218  9474    0
+219  9475    0
+220  9476    2
+221  9477    1
+222  9478    2
+223  9479    0
+224  9561    0
+225  9562    1
+226  9563    2
+227  9564    1
+228  9565    2
+229  9571    1
+230  9572    1
+231  9573    3
+232  9574    1
+233  9575    1
+234  9576    0
+235  9577    1
+236  9661    1
+237  9662    2
+238  9663    0
+239  9671    2
+240  9672    2
+241  9673    1
+242  9674    1
+243  9675    2
+244  9676    1
+245  9677    2
+246  9678    2
+247  9679    1
+248  9761    0
+249  9762    0
+250  9764    0
+251  9771    0
+252  9772    0
+253  9773    1
+254  9774    2
+255  9775    0
+256  9777    1
+257  9778    0
+258  9779    1
+259 10041    2
+260 10042    0
+261 10043    1
+262 10044    0
+263 10045    1
+264 10046    1
+265 12053    5
+266 12060    5
+267 12061    4
+268 12062    3
+269 12063    2
+270 12064    2
+271 12065    3
+272 12066    4
+273 12067    2
+274 12068    1
+275 12069    1
+276 12070    0
+277 12071    1
+278 12072    4
+279 12073    2
+280 13051    0
+281 13052    3
+282 13053    0
+283 13054    3
+284 13055    2
+285 13056    1
+286 13057    0
+287 13058    0
+288 13059    1
+289 13060    1
+290 13061    0
+291 13062    1
+292 14511    1
+293 14521    1
+294 14522    1
+295 14523    1
+296 14524    1
+297 14625    2
+298 14626    2
+299 14627    1
+300 14628    0
+301 14713    1
+302 14729    1
+303 14730    1
+304 15001    3
+305 15081    3
+306 15082    2
+307 15083    1
+308 15084    4
+309 15085    2
+310 15086    2
+311 15087    4
+312 15088    2
+313 15089    2
+314 15090    3
+315 15091    1
+316 16051    3
+317 16056    0
+318 16061    0
+319 16062    1
+320 16063    0
+321 16064    1
+322 16065    1
+323 16066    2
+324 16067    1
+325 16068    3
+326 16069    2
+327 16070    4
+328 16071    0
+329 16072    1
+330 16073    1
+331 16074    1
+332 16075    1
+333 16076    1
+334 16077    0
+[[1]]
+[1] "Ordered table of comIds"
+
+$comId
+  [1] 1001  1051  1053  1054  1055  1058  1059  1061  1062  3103  3151  3152  3153  3154  3155  3156  3157  3241  3251  3252  3254  3255  3256  3257  3351  3352 
+ [27] 3353  3354  3356  3357  3358  3359  3360  3361  3404  3451  3452  3453  3454  3455  3457  3458  3459  3460  3461  3462  5119  5154  5166  5362  5366  5370 
+ [53] 5382  5554  5558  5562  5570  5754  5762  5766  5915  5954  5962  5974  6413  6414  6431  6432  6433  6434  6436  6438  6439  6440  6531  6532  6533  6534 
+ [79] 6535  6631  6632  6633  6635  7132  7138  7141  7143  7231  7232  7235  7340  8115  8116  8117  8118  8135  8136  8216  8225  8226  8236  8325  8326  8336 
+[105] 8337  8416  8425  8426  8435  8436  8437  9161  9162  9163  9171  9172  9173  9175  9177  9178  9179  9181  9182  9183  9186  9187  9189  9190  9262  9263 
+[131] 9271  9272  9273  9275  9276  9277  9279  9362  9363  9371  9374  9463  9472  9473  9474  9475  9479  9561  9576  9663  9761  9762  9764  9771  9772  9775 
+[157] 9778  10042 10044 12070 13051 13053 13057 13058 13061 14628 16056 16061 16063 16071 16077 1003  1004  1057  1060  3158  3355  3456  5162  5358  5515  5566 
+[183] 5770  5774  5958  5978  6411  6412  6435  6437  6611  6634  6636  7137  7140  7333  8119  8125  8126  8127  8215  8235  8315  8316  8327  8335  8417  9174 
+[209] 9176  9184  9185  9188  9261  9274  9278  9372  9373  9375  9377  9462  9464  9471  9477  9562  9564  9571  9572  9574  9575  9577  9661  9673  9674  9676 
+[235] 9679  9773  9777  9779  10043 10045 10046 12068 12069 12071 13056 13059 13060 13062 14511 14521 14522 14523 14524 14627 14713 14729 14730 15083 15091 16062
+[261] 16064 16065 16067 16072 16073 16074 16075 16076 1056  5158  5170  5316  5758  7134  7336  8128  8237  9361  9376  9461  9476  9478  9563  9565  9662  9671 
+[287] 9672  9675  9677  9678  9774  10041 12063 12064 12067 12073 13055 14625 14626 15082 15085 15086 15088 15089 16066 16069 5116  5374  5711  5913  8317  8415 
+[313] 9573  12062 12065 13052 13054 15001 15081 15090 16051 16068 1002  5914  12061 12066 12072 15084 15087 16070 12053 12060 5966  5970 
+334 Levels: 1001 1002 1003 1004 1051 1053 1054 1055 1056 1057 1058 1059 1060 1061 1062 3103 3151 3152 3153 3154 3155 3156 3157 3158 3241 3251 3252 3254 ... 16077
+
+$Freq
+  [1] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ [79] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[157] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+[235] 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3
+[313] 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 5 5 7 8
+
+$`unique(Yield_Covariates_SM_May$com)`
+  [1]       Flensburg, Kreisfreie Stadt                          Dithmarschen, Landkreis                       
+  [3]       Herzogtum Lauenburg, Landkreis                       Nordfriesland, Landkreis                      
+  [5]       Ostholstein, Landkreis                               Rendsburg-Eckernf\xf6rde, Landkreis           
+  [7]       Schleswig-Flensburg, Landkreis                       Steinburg, Landkreis                          
+  [9]       Stormarn, Landkreis                                  Wolfsburg, Kreisfreie Stadt                   
+ [11]       Gifhorn, Landkreis                                   G\xf6ttingen, Landkreis                       
+ [13]       Goslar, Landkreis                                    Helmstedt, Landkreis                          
+ [15]       Northeim, Landkreis                                  Osterode am Harz, Landkreis                   
+ [17]       Peine, Landkreis                                     Region Hannover, Landkreis                    
+ [19]       Diepholz, Landkreis                                  Hameln-Pyrmont, Landkreis                     
+ [21]       Hildesheim, Landkreis                                Holzminden, Landkreis                         
+ [23]       Nienburg (Weser), Landkreis                          Schaumburg, Landkreis                         
+ [25]       Celle, Landkreis                                     Cuxhaven, Landkreis                           
+ [27]       Harburg, Landkreis                                   L\xfcchow-Dannenberg, Landkreis               
+ [29]       Osterholz, Landkreis                                 Rotenburg (W\xfcmme), Landkreis               
+ [31]       Heidekreis, Landkreis                                Stade, Landkreis                              
+ [33]       Uelzen, Landkreis                                    Verden, Landkreis                             
+ [35]       Osnabr\xfcck, Kreisfreie Stadt                       Ammerland, Landkreis                          
+ [37]       Aurich, Landkreis                                    Cloppenburg, Landkreis                        
+ [39]       Emsland, Landkreis                                   Friesland, Landkreis                          
+ [41]       Leer, Landkreis                                      Oldenburg, Landkreis                          
+ [43]       Osnabr\xfcck, Landkreis                              Vechta, Landkreis                             
+ [45]       Wesermarsch, Landkreis                               Wittmund, Landkreis                           
+ [47]       Oberhausen, Kreisfreie Stadt                         Kleve, Kreis                                  
+ [49]       Viersen, Kreis                                       Rhein-Erft-Kreis                              
+ [51]       Euskirchen, Kreis                                    Heinsberg, Kreis                              
+ [53]       Rhein-Sieg-Kreis                                     Borken, Kreis                                 
+ [55]       Coesfeld, Kreis                                      Recklinghausen, Kreis                         
+ [57]       Warendorf, Kreis                                     G\xfctersloh, Kreis                           
+ [59]       H\xf6xter, Kreis                                     Lippe, Kreis                                  
+ [61]       Hamm, Kreisfreie Stadt                               Ennepe-Ruhr-Kreis                             
+ [63]       M\xe4rkischer Kreis                                  Soest, Kreis                                  
+ [65]       Offenbach am Main, Kreisfreie Stadt                  Wiesbaden, Landeshauptstadt, Kreisfreie Stadt 
+ [67]       Bergstra\xdfe, Landkreis                             Darmstadt-Dieburg, Landkreis                  
+ [69]       Gro\xdf-Gerau, Landkreis                             Hochtaunuskreis                               
+ [71]       Main-Taunus-Kreis                                    Offenbach, Landkreis                          
+ [73]       Rheingau-Taunus-Kreis                                Wetteraukreis                                 
+ [75]       Gie\xdfen, Landkreis                                 Lahn-Dill-Kreis                               
+ [77]       Limburg-Weilburg, Landkreis                          Marburg-Biedenkopf, Landkreis                 
+ [79]       Vogelsbergkreis                                      Fulda, Landkreis                              
+ [81]       Hersfeld-Rotenburg, Landkreis                        Kassel, Landkreis                             
+ [83]       Waldeck-Frankenberg, Landkreis                       Altenkirchen (Westerwald), Landkreis          
+ [85]       Neuwied, Landkreis                                   Rhein-Lahn-Kreis                              
+ [87]       Westerwaldkreis                                      Bernkastel-Wittlich, Landkreis                
+ [89]       Eifelkreis Bitburg-Pr\xfcm                           Trier-Saarburg, Landkreis                     
+ [91]       S\xfcdwestpfalz, Landkreis                           B\xf6blingen, Landkreis                       
+ [93]       Esslingen, Landkreis                                 G\xf6ppingen, Landkreis                       
+ [95]       Ludwigsburg, Landkreis                               Heidenheim, Landkreis                         
+ [97]       Ostalbkreis                                          Rastatt, Landkreis                            
+ [99]       Neckar-Odenwald-Kreis                                Rhein-Neckar-Kreis                            
+[101]       Enzkreis                                             Rottweil, Landkreis                           
+[103]       Schwarzwald-Baar-Kreis                               L\xf6rrach, Landkreis                         
+[105]       Waldshut, Landkreis                                  T\xfcbingen, Landkreis                        
+[107]       Alb-Donau-Kreis                                      Biberach, Landkreis                           
+[109]       Bodenseekreis                                        Ravensburg, Landkreis                         
+[111]       Sigmaringen, Landkreis                               Ingolstadt                                    
+[113]       M\xfcnchen, Landeshauptstadt                         Rosenheim                                     
+[115]       Alt\xf6tting, Landkreis                              Berchtesgadener Land, Landkreis               
+[117]       Bad T\xf6lz-Wolfratshausen, Landkreis                Ebersberg, Landkreis                          
+[119]       Erding, Landkreis                                    Freising, Landkreis                           
+[121]       F\xfcrstenfeldbruck, Landkreis                       Landsberg am Lech, Landkreis                  
+[123]       Miesbach, Landkreis                                  M\xfchldorf a.Inn, Landkreis                  
+[125]       Pfaffenhofen a.d.Ilm, Landkreis                      Rosenheim, Landkreis                          
+[127]       Traunstein, Landkreis                                Weilheim-Schongau, Landkreis                  
+[129]       Passau                                               Straubing                                     
+[131]       Deggendorf, Landkreis                                Freyung-Grafenau, Landkreis                   
+[133]       Kelheim, Landkreis                                   Passau, Landkreis                             
+[135]       Regen, Landkreis                                     Rottal-Inn, Landkreis                         
+[137]       Dingolfing-Landau, Landkreis                         Regensburg                                    
+[139]       Weiden i.d.OPf.                                      Amberg-Sulzbach, Landkreis                    
+[141]       Neustadt a.d.Waldnaab, Landkreis                     Coburg                                        
+[143]       Bayreuth, Landkreis                                  Coburg, Landkreis                             
+[145]       Forchheim, Landkreis                                 Hof, Landkreis                                
+[147]       Wunsiedel i.Fichtelgebirge, Landkreis                Ansbach                                       
+[149]       Roth, Landkreis                                      W\xfcrzburg                                   
+[151]       Augsburg                                             Kaufbeuren                                    
+[153]       Memmingen                                            Aichach-Friedberg, Landkreis                  
+[155]       Augsburg, Landkreis                                  Neu-Ulm, Landkreis                            
+[157]       Unterallg\xe4u, Landkreis                            Merzig-Wadern, Landkreis                      
+[159]       Saarlouis, Landkreis                                 Prignitz, Landkreis                           
+[161]       Landkreis Bad Doberan                                Landkreis G\xfcstrow                          
+[163]       Landkreis Nordvorpommern                             Landkreis Nordwestmecklenburg                 
+[165]       Landkreis R\xfcgen                                   S\xe4chsische Schweiz-Osterzgebirge, Landkreis
+[167]       Eisenach, krsfr. Stadt                               Eichsfeld, Kreis                              
+[169]       Wartburgkreis                                        Weimarer Land, Kreis                          
+[171]       Altenburger Land, Kreis                              L\xfcbeck, Hansestadt, Kreisfreie Stadt       
+[173]       Neum\xfcnster, Kreisfreie Stadt                      Pl\xf6n, Landkreis                            
+[175]       Segeberg, Landkreis                                  Wolfenb\xfcttel, Landkreis                    
+[177]       L\xfcneburg, Landkreis                               Grafschaft Bentheim, Landkreis                
+[179]       Rhein-Kreis Neuss                                    D\xfcren, Kreis                               
+[181]       M\xfcnster, Kreisfreie Stadt                         Steinfurt, Kreis                              
+[183]       Minden-L\xfcbbecke, Kreis                            Paderborn, Kreis                              
+[185]       Hochsauerlandkreis                                   Unna, Kreis                                   
+[187]       Darmstadt, Kreisfreie Stadt                          Frankfurt am Main, Kreisfreie Stadt           
+[189]       Main-Kinzig-Kreis                                    Odenwaldkreis                                 
+[191]       Kassel, Kreisfreie Stadt                             Schwalm-Eder-Kreis                            
+[193]       Werra-Mei\xdfner-Kreis                               Mayen-Koblenz, Landkreis                      
+[195]       Rhein-Hunsr\xfcck-Kreis                              Donnersbergkreis                              
+[197]       Rems-Murr-Kreis                                      Heilbronn, Landkreis                          
+[199]       Hohenlohekreis                                       Schw\xe4bisch Hall, Landkreis                 
+[201]       Karlsruhe, Landkreis                                 Calw, Landkreis                               
+[203]       Breisgau-Hochschwarzwald, Landkreis                  Emmendingen, Landkreis                        
+[205]       Tuttlingen, Landkreis                                Konstanz, Landkreis                           
+[207]       Zollernalbkreis                                      Dachau, Landkreis                             
+[209]       Eichst\xe4tt, Landkreis                              M\xfcnchen, Landkreis                         
+[211]       Neuburg-Schrobenhausen, Landkreis                    Starnberg, Landkreis                          
+[213]       Landshut                                             Landshut, Landkreis                           
+[215]       Straubing-Bogen, Landkreis                           Cham, Landkreis                               
+[217]       Neumarkt i.d.OPf., Landkreis                         Regensburg, Landkreis                         
+[219]       Tirschenreuth, Landkreis                             Bayreuth                                      
+[221]       Hof                                                  Bamberg, Landkreis                            
+[223]       Kulmbach, Landkreis                                  Erlangen                                      
+[225]       N\xfcrnberg                                          Ansbach, Landkreis                            
+[227]       Erlangen-H\xf6chstadt, Landkreis                     N\xfcrnberger Land, Landkreis                 
+[229]       Neustadt a.d.Aisch-Bad Windsheim, Landkreis          Wei\xdfenburg-Gunzenhausen, Landkreis         
+[231]       Aschaffenburg                                        Rh\xf6n-Grabfeld, Landkreis                   
+[233]       Ha\xdfberge, Landkreis                               Miltenberg, Landkreis                         
+[235]       W\xfcrzburg, Landkreis                               Dillingen a.d.Donau, Landkreis                
+[237]       Ostallg\xe4u, Landkreis                              Donau-Ries, Landkreis                         
+[239]       Neunkirchen, Landkreis                               Saarpfalz-Kreis                               
+[241]       St. Wendel, Landkreis                                Ostprignitz-Ruppin, Landkreis                 
+[243]       Potsdam-Mittelmark, Landkreis                        Spree-Nei\xdfe, Landkreis                     
+[245]       Landkreis M\xfcritz                                  Landkreis Ostvorpommern                       
+[247]       Landkreis Parchim                                    Landkreis Uecker-Randow                       
+[249]       Chemnitz, Stadt                                      Erzgebirgskreis                               
+[251]       Mittelsachsen, Landkreis                             Vogtlandkreis                                 
+[253]       Zwickau, Landkreis                                   Mei\xdfen, Landkreis                          
+[255]       Leipzig, Stadt                                       Leipzig, Landkreis                            
+[257]       Nordsachsen, Landkreis                               B\xf6rde, Landkreis                           
+[259]       Wittenberg, Landkreis                                Nordhausen, Kreis                             
+[261]       Unstrut-Hainich-Kreis                                Kyffh\xe4userkreis                            
+[263]       Gotha, Kreis                                         Sonneberg, Kreis                              
+[265]       Saalfeld-Rudolstadt, Kreis                           Saale-Holzland-Kreis                          
+[267]       Saale-Orla-Kreis                                     Greiz, Kreis                                  
+[269]       Pinneberg, Landkreis                                 Mettmann, Kreis                               
+[271]       Wesel, Kreis                                         Leverkusen, Kreisfreie Stadt                  
+[273]       Herford, Kreis                                       Birkenfeld, Landkreis                         
+[275]       Kusel, Landkreis                                     Main-Tauber-Kreis                             
+[277]       Freudenstadt, Landkreis                              Amberg                                        
+[279]       Schwandorf, Landkreis                                Bamberg                                       
+[281]       Kronach, Landkreis                                   Lichtenfels, Landkreis                        
+[283]       F\xfcrth                                             Schwabach                                     
+[285]       Schweinfurt                                          Aschaffenburg, Landkreis                      
+[287]       Bad Kissingen, Landkreis                             Kitzingen, Landkreis                          
+[289]       Main-Spessart, Landkreis                             Schweinfurt, Landkreis                        
+[291]       G\xfcnzburg, Landkreis                               Saarbr\xfccken, Regionalverband               
+[293]       Havelland, Landkreis                                 M\xe4rkisch-Oderland, Landkreis               
+[295]       Oder-Spree, Landkreis                                Uckermark, Landkreis                          
+[297]       Landkreis Mecklenburg-Strelitz                       Bautzen, Landkreis                            
+[299]       G\xf6rlitz, Landkreis                                Anhalt-Bitterfeld, Landkreis                  
+[301]       Harz, Landkreis                                      Jerichower Land, Landkreis                    
+[303]       Saalekreis                                           Salzlandkreis                                 
+[305]       Schmalkalden-Meiningen, Kreis                        Hildburghausen, Kreis                         
+[307]       M\xf6nchengladbach, Kreisfreie Stadt                 Oberbergischer Kreis                          
+[309]       Bielefeld, Kreisfreie Stadt                          Dortmund, Kreisfreie Stadt                    
+[311]       Ortenaukreis                                         Reutlingen, Landkreis                         
+[313]       F\xfcrth, Landkreis                                  Elbe-Elster, Landkreis                        
+[315]       Oberhavel, Landkreis                                 Landkreis Demmin                              
+[317]       Landkreis Ludwigslust                                Dessau-Ro\xdflau, Kreisfreie Stadt            
+[319]       Altmarkkreis Salzwedel                               Stendal, Landkreis                            
+[321]       Erfurt, krsfr. Stadt                                 S\xf6mmerda, Kreis                            
+[323]       Kiel, Landeshauptstadt, Kreisfreie Stadt             Hagen, Kreisfreie Stadt                       
+[325]       Dahme-Spreewald, Landkreis                           Oberspreewald-Lausitz, Landkreis              
+[327]       Teltow-Fl\xe4ming, Landkreis                         Burgenlandkreis                               
+[329]       Mansfeld-S\xfcdharz, Landkreis                       Ilm-Kreis                                     
+[331]       Frankfurt (Oder), Kreisfreie Stadt                   Barnim, Landkreis                             
+[333]       Olpe, Kreis                                          Siegen-Wittgenstein, Kreis                    
+334 Levels:       Aichach-Friedberg, Landkreis       Alb-Donau-Kreis       Altenburger Land, Kreis ...       Zwickau, Landkreis
+

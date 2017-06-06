@@ -1,0 +1,135 @@
+hdf5/1.8.6_gcc44(3):ERROR:150: Module 'hdf5/1.8.6_gcc44' conflicts with the currently loaded module(s) 'hdf5/1.8.6_gcc41'
+hdf5/1.8.6_gcc44(3):ERROR:102: Tcl command execution failed: conflict	hdf5
+
+running
+  '/usr/local/R/3.0.1-1/lib64/R/bin/R --slave --no-restore --file=/home/peichl/projects/correlation/script/script_raw/Gsub_CLCraster.R'
+
+Loading required package: methods
+Loading required package: sp
+rgdal: version: 0.8-9, (SVN revision 470)
+Geospatial Data Abstraction Library extensions to R successfully loaded
+Loaded GDAL runtime: GDAL 1.8.0, released 2011/01/12
+Path to GDAL shared files: /usr/local/gdal/1.8.0_gcc44/share/gdal
+GDAL does not use iconv for recoding strings.
+Loaded PROJ.4 runtime: Rel. 4.7.1, 23 September 2009, [PJ_VERSION: 470]
+Path to PROJ.4 shared files: (autodetected)
+
+Attaching package: ‘raster’
+
+The following object is masked from ‘package:sp’:
+
+    disaggregate
+
+Loading required package: lattice
+Loading required package: latticeExtra
+Loading required package: RColorBrewer
+Loading required package: hexbin
+Loading required package: grid
+Loading required package: foreign
+Checking rgeos availability: FALSE
+ 	Note: when rgeos is not available, polygon geometry 	computations in maptools depend on gpclib,
+ 	which has a restricted licence. It is disabled by default;
+ 	to enable gpclib, type gpclibPermit()
+class       : RasterLayer 
+dimensions  : 9000, 7000, 6.3e+07  (nrow, ncol, ncell)
+resolution  : 100, 100  (x, y)
+extent      : 4038000, 4738000, 5220000, 6120000  (xmin, xmax, ymin, ymax)
+coord. ref. : NA 
+data source : /gpfs0/home/peichl/projects/correlation/data/data_raw/4_michael/clc_2006.asc 
+names       : clc_2006 
+values      : 1, 49  (min, max)
+
+class       : RasterLayer 
+dimensions  : 9000, 7000, 6.3e+07  (nrow, ncol, ncell)
+resolution  : 100, 100  (x, y)
+extent      : 4038000, 4738000, 5220000, 6120000  (xmin, xmax, ymin, ymax)
+coord. ref. : NA 
+data source : /gpfs0/home/peichl/projects/correlation/data/data_raw/4_michael/clc_2006_raster.tif 
+names       : clc_2006_raster 
+values      : 1, 49  (min, max)
+
+Formal class 'RasterLayer' [package "raster"] with 12 slots
+  ..@ file    :Formal class '.RasterFile' [package "raster"] with 12 slots
+  .. .. ..@ name        : chr ""
+  .. .. ..@ datanotation: chr "FLT4S"
+  .. .. ..@ byteorder   : chr "little"
+  .. .. ..@ nodatavalue : num -Inf
+  .. .. ..@ NAchanged   : logi FALSE
+  .. .. ..@ nbands      : int 1
+  .. .. ..@ bandorder   : chr "BIL"
+  .. .. ..@ offset      : int 0
+  .. .. ..@ toptobottom : logi TRUE
+  .. .. ..@ blockrows   : int 0
+  .. .. ..@ blockcols   : int 0
+  .. .. ..@ driver      : chr ""
+  ..@ data    :Formal class '.SingleLayerData' [package "raster"] with 13 slots
+  .. .. ..@ values    : int [1:63000000] NA NA NA NA NA NA NA NA NA NA ...
+  .. .. ..@ offset    : num 0
+  .. .. ..@ gain      : num 1
+  .. .. ..@ inmemory  : logi TRUE
+  .. .. ..@ fromdisk  : logi FALSE
+  .. .. ..@ isfactor  : logi FALSE
+  .. .. ..@ attributes: list()
+  .. .. ..@ haveminmax: logi TRUE
+  .. .. ..@ min       : int 12
+  .. .. ..@ max       : int 12
+  .. .. ..@ band      : int 1
+  .. .. ..@ unit      : chr ""
+  .. .. ..@ names     : chr ""
+  ..@ legend  :Formal class '.RasterLegend' [package "raster"] with 5 slots
+  .. .. ..@ type      : chr(0) 
+  .. .. ..@ values    : logi(0) 
+  .. .. ..@ color     : logi(0) 
+  .. .. ..@ names     : logi(0) 
+  .. .. ..@ colortable: logi(0) 
+  ..@ title   : chr(0) 
+  ..@ extent  :Formal class 'Extent' [package "raster"] with 4 slots
+  .. .. ..@ xmin: num 4038000
+  .. .. ..@ xmax: num 4738000
+  .. .. ..@ ymin: num 5220000
+  .. .. ..@ ymax: num 6120000
+  ..@ rotated : logi FALSE
+  ..@ rotation:Formal class '.Rotation' [package "raster"] with 2 slots
+  .. .. ..@ geotrans: num(0) 
+  .. .. ..@ transfun:function ()  
+  ..@ ncols   : int 7000
+  ..@ nrows   : int 9000
+  ..@ crs     :Formal class 'CRS' [package "sp"] with 1 slots
+  .. .. ..@ projargs: chr NA
+  ..@ history : list()
+  ..@ z       : list()
+class       : RasterLayer 
+dimensions  : 9000, 7000, 6.3e+07  (nrow, ncol, ncell)
+resolution  : 100, 100  (x, y)
+extent      : 4038000, 4738000, 5220000, 6120000  (xmin, xmax, ymin, ymax)
+coord. ref. : NA 
+data source : in memory
+names       : clc_2006 
+values      : 12, 12  (min, max)
+
+class       : RasterLayer 
+dimensions  : 9000, 7000, 6.3e+07  (nrow, ncol, ncell)
+resolution  : 100, 100  (x, y)
+extent      : 4038000, 4738000, 5220000, 6120000  (xmin, xmax, ymin, ymax)
+coord. ref. : NA 
+data source : /gpfs0/home/peichl/projects/correlation/data/data_raw/4_michael/clc_2006_nonirgarabland.asc 
+names       : clc_2006_nonirgarabland 
+values      : -2147483648, 2147483647  (min, max)
+
+Loading required package: ncdf
+class       : RasterBrick 
+dimensions  : 225, 175, 39375, 720  (nrow, ncol, ncell, nlayers)
+resolution  : 4000, 4000  (x, y)
+extent      : 4038000, 4738000, 5220000, 6120000  (xmin, xmax, ymin, ymax)
+coord. ref. : +proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0 
+data source : /gpfs0/home/peichl/projects/correlation/data/data_raw/4_michael/mSMI.nc 
+names       : X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15, ... 
+z-value     : 1, 720 (min, max)
+varname     : SMI 
+
+Error: cannot allocate vector of size 4.9 Gb
+Execution halted
+
+real	7m11.438s
+user	5m43.948s
+sys	1m24.633s

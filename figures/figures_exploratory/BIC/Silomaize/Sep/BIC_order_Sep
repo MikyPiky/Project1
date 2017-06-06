@@ -1,0 +1,147 @@
+         BIC          model model_index index month config
+9  -5560.118 01_SMIPrecTavg           1     9   Sep   Best
+3  -5558.832 01_SMIPrecTavg           1     3   Sep   Best
+27 -5554.591     05_SMITavg           5    27   Sep   Best
+6  -5552.101 01_SMIPrecTavg           1     6   Sep   Best
+8  -5394.764 01_SMIPrecTavg           1     8   Sep   Best
+2  -5393.474 01_SMIPrecTavg           1     2   Sep   Best
+26 -5390.548     05_SMITavg           5    26   Sep   Best
+5  -5388.125 01_SMIPrecTavg           1     5   Sep   Best
+18 -5294.648  02_SMIPrecPET           2    18   Sep   Best
+12 -5274.542  02_SMIPrecPET           2    12   Sep   Best
+21 -5272.897     03_SMIPrec           3    21   Sep   Best
+15 -5270.152  02_SMIPrecPET           2    15   Sep   Best
+24 -5266.630      04_SMIPET           4    24   Sep   Best
+7  -5264.518 01_SMIPrecTavg           1     7   Sep   Best
+16 -5264.317  02_SMIPrecPET           2    16   Sep   Best
+17 -5256.470  02_SMIPrecPET           2    17   Sep   Best
+19 -5244.119     03_SMIPrec           3    19   Sep   Best
+20 -5237.033     03_SMIPrec           3    20   Sep   Best
+1  -5235.612 01_SMIPrecTavg           1     1   Sep   Best
+10 -5235.532  02_SMIPrecPET           2    10   Sep   Best
+28 -5231.817         06_SMI           6    28   Sep   Best
+23 -5231.775      04_SMIPET           4    23   Sep   Best
+11 -5231.740  02_SMIPrecPET           2    11   Sep   Best
+22 -5230.125      04_SMIPET           4    22   Sep   Best
+13 -5228.484  02_SMIPrecPET           2    13   Sep   Best
+4  -5228.453 01_SMIPrecTavg           1     4   Sep   Best
+25 -5226.133     05_SMITavg           5    25   Sep   Best
+14 -5223.522  02_SMIPrecPET           2    14   Sep   Best
+46 -5204.061    10_PrecTavg          10    46   Sep   Best
+40 -5187.704    10_PrecTavg          10    40   Sep   Best
+43 -5184.862    10_PrecTavg          10    43   Sep   Best
+34 -5177.346        08_Tavg           8    34   Sep   Best
+45 -4983.506    10_PrecTavg          10    45   Sep   Best
+39 -4969.268    10_PrecTavg          10    39   Sep   Best
+42 -4965.227    10_PrecTavg          10    42   Sep   Best
+33 -4952.214        08_Tavg           8    33   Sep   Best
+44 -4925.984    10_PrecTavg          10    44   Sep   Best
+31 -4923.494        07_Prec           7    31   Sep   Best
+55 -4920.336     11_PrecPET          11    55   Sep   Best
+53 -4916.222     11_PrecPET          11    53   Sep   Best
+54 -4908.885     11_PrecPET          11    54   Sep   Best
+37 -4891.232         09_PET           9    37   Sep   Best
+52 -4890.829     11_PrecPET          11    52   Sep   Best
+49 -4885.071     11_PrecPET          11    49   Sep   Best
+30 -4884.868        07_Prec           7    30   Sep   Best
+41 -4884.197    10_PrecTavg          10    41   Sep   Best
+35 -4879.590         09_PET           9    35   Sep   Best
+29 -4878.872        07_Prec           7    29   Sep   Best
+36 -4878.001         09_PET           9    36   Sep   Best
+50 -4877.285     11_PrecPET          11    50   Sep   Best
+38 -4875.469    10_PrecTavg          10    38   Sep   Best
+48 -4873.947     11_PrecPET          11    48   Sep   Best
+51 -4873.436     11_PrecPET          11    51   Sep   Best
+47 -4872.651     11_PrecPET          11    47   Sep   Best
+32 -4869.983        08_Tavg           8    32   Sep   Best
+[1] "Best Formula - Best BIC"
+siloMaize_logtrend ~ poly(Prec, degree[r, 1], raw = T) + poly(Tavg, 
+    degree[r, 2], raw = T) + dummy(SMI_GDM, c("severe drought", 
+    "moderate drought", "abnormally dry", "abnormally wet", "abundantly wet", 
+    "severely wet")) + dummy(comId)
+        BIC          model model_index index month          config
+9 -5560.118 01_SMIPrecTavg           1     9   Sep Standard_Config
+3 -5558.832 01_SMIPrecTavg           1     3   Sep Standard_Config
+6 -5552.101 01_SMIPrecTavg           1     6   Sep Standard_Config
+8 -5394.764 01_SMIPrecTavg           1     8   Sep Standard_Config
+2 -5393.474 01_SMIPrecTavg           1     2   Sep Standard_Config
+5 -5388.125 01_SMIPrecTavg           1     5   Sep Standard_Config
+7 -5264.518 01_SMIPrecTavg           1     7   Sep Standard_Config
+1 -5235.612 01_SMIPrecTavg           1     1   Sep Standard_Config
+4 -5228.453 01_SMIPrecTavg           1     4   Sep Standard_Config
+[1] "Best Formula (Standard Configuration) - Best BIC"
+siloMaize_logtrend ~ poly(Prec, degree[r, 1], raw = T) + poly(Tavg, 
+    degree[r, 2], raw = T) + dummy(SMI_GDM, c("severe drought", 
+    "moderate drought", "abnormally dry", "abnormally wet", "abundantly wet", 
+    "severely wet")) + dummy(comId)
+         BIC          model model_index index month          config
+9  -5560.118 01_SMIPrecTavg           1     9   Sep Best_SMI_config
+3  -5558.832 01_SMIPrecTavg           1     3   Sep Best_SMI_config
+27 -5554.591     05_SMITavg           5    27   Sep Best_SMI_config
+6  -5552.101 01_SMIPrecTavg           1     6   Sep Best_SMI_config
+8  -5394.764 01_SMIPrecTavg           1     8   Sep Best_SMI_config
+2  -5393.474 01_SMIPrecTavg           1     2   Sep Best_SMI_config
+26 -5390.548     05_SMITavg           5    26   Sep Best_SMI_config
+5  -5388.125 01_SMIPrecTavg           1     5   Sep Best_SMI_config
+18 -5294.648  02_SMIPrecPET           2    18   Sep Best_SMI_config
+12 -5274.542  02_SMIPrecPET           2    12   Sep Best_SMI_config
+21 -5272.897     03_SMIPrec           3    21   Sep Best_SMI_config
+15 -5270.152  02_SMIPrecPET           2    15   Sep Best_SMI_config
+24 -5266.630      04_SMIPET           4    24   Sep Best_SMI_config
+7  -5264.518 01_SMIPrecTavg           1     7   Sep Best_SMI_config
+16 -5264.317  02_SMIPrecPET           2    16   Sep Best_SMI_config
+17 -5256.470  02_SMIPrecPET           2    17   Sep Best_SMI_config
+19 -5244.119     03_SMIPrec           3    19   Sep Best_SMI_config
+20 -5237.033     03_SMIPrec           3    20   Sep Best_SMI_config
+1  -5235.612 01_SMIPrecTavg           1     1   Sep Best_SMI_config
+10 -5235.532  02_SMIPrecPET           2    10   Sep Best_SMI_config
+28 -5231.817         06_SMI           6    28   Sep Best_SMI_config
+23 -5231.775      04_SMIPET           4    23   Sep Best_SMI_config
+11 -5231.740  02_SMIPrecPET           2    11   Sep Best_SMI_config
+22 -5230.125      04_SMIPET           4    22   Sep Best_SMI_config
+13 -5228.484  02_SMIPrecPET           2    13   Sep Best_SMI_config
+4  -5228.453 01_SMIPrecTavg           1     4   Sep Best_SMI_config
+25 -5226.133     05_SMITavg           5    25   Sep Best_SMI_config
+14 -5223.522  02_SMIPrecPET           2    14   Sep Best_SMI_config
+[1] "Best Formula (with SMI) - Best BIC"
+siloMaize_logtrend ~ poly(Prec, degree[r, 1], raw = T) + poly(Tavg, 
+    degree[r, 2], raw = T) + dummy(SMI_GDM, c("severe drought", 
+    "moderate drought", "abnormally dry", "abnormally wet", "abundantly wet", 
+    "severely wet")) + dummy(comId)
+         BIC          model model_index index month            config
+9  -5560.118 01_SMIPrecTavg           1     9   Sep Best_noPET_config
+3  -5558.832 01_SMIPrecTavg           1     3   Sep Best_noPET_config
+15 -5554.591     03_SMITavg           3    15   Sep Best_noPET_config
+6  -5552.101 01_SMIPrecTavg           1     6   Sep Best_noPET_config
+8  -5394.764 01_SMIPrecTavg           1     8   Sep Best_noPET_config
+2  -5393.474 01_SMIPrecTavg           1     2   Sep Best_noPET_config
+14 -5390.548     03_SMITavg           3    14   Sep Best_noPET_config
+5  -5388.125 01_SMIPrecTavg           1     5   Sep Best_noPET_config
+12 -5272.897     02_SMIPrec           2    12   Sep Best_noPET_config
+7  -5264.518 01_SMIPrecTavg           1     7   Sep Best_noPET_config
+10 -5244.119     02_SMIPrec           2    10   Sep Best_noPET_config
+11 -5237.033     02_SMIPrec           2    11   Sep Best_noPET_config
+1  -5235.612 01_SMIPrecTavg           1     1   Sep Best_noPET_config
+16 -5231.817         04_SMI           4    16   Sep Best_noPET_config
+4  -5228.453 01_SMIPrecTavg           1     4   Sep Best_noPET_config
+13 -5226.133     03_SMITavg           3    13   Sep Best_noPET_config
+31 -5204.061    07_PrecTavg           7    31   Sep Best_noPET_config
+25 -5187.704    07_PrecTavg           7    25   Sep Best_noPET_config
+28 -5184.862    07_PrecTavg           7    28   Sep Best_noPET_config
+22 -5177.346        06_Tavg           6    22   Sep Best_noPET_config
+30 -4983.506    07_PrecTavg           7    30   Sep Best_noPET_config
+24 -4969.268    07_PrecTavg           7    24   Sep Best_noPET_config
+27 -4965.227    07_PrecTavg           7    27   Sep Best_noPET_config
+21 -4952.214        06_Tavg           6    21   Sep Best_noPET_config
+29 -4925.984    07_PrecTavg           7    29   Sep Best_noPET_config
+19 -4923.494        05_Prec           5    19   Sep Best_noPET_config
+18 -4884.868        05_Prec           5    18   Sep Best_noPET_config
+26 -4884.197    07_PrecTavg           7    26   Sep Best_noPET_config
+17 -4878.872        05_Prec           5    17   Sep Best_noPET_config
+23 -4875.469    07_PrecTavg           7    23   Sep Best_noPET_config
+20 -4869.983        06_Tavg           6    20   Sep Best_noPET_config
+[1] "Best Formula (no PET)- Best BIC"
+siloMaize_logtrend ~ poly(Prec, degree[r, 1], raw = T) + poly(Tavg, 
+    degree[r, 2], raw = T) + dummy(SMI_GDM, c("severe drought", 
+    "moderate drought", "abnormally dry", "abnormally wet", "abundantly wet", 
+    "severely wet")) + dummy(comId)
